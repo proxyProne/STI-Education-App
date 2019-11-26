@@ -6,6 +6,6 @@ How can we improve people's awareness of STIs using a web application.
 
 ## Links
 
-https://repl.it/@megwhitm/STI-Education-App
+https://repl.it/@megwhitm/STI-Education
 
 [Project Board](../../projects/1)
